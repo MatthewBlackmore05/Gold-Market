@@ -1,0 +1,7 @@
+DEPLOY THIS WEBSITE
+
+1. Extract this ZIP.
+2. Upload the four files inside the extracted folder to the ROOT of a new empty GitHub repository.
+3. In Vercel, import that repository and deploy.
+
+Do not add package.json, app/, pages/, or next.config.mjs. This is a static Vercel website and needs no build command.
